@@ -1,5 +1,6 @@
 #!/bin/bash
 
+
 # Define global variable to hold the series
 declare -a series
 
