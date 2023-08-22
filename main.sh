@@ -1,6 +1,7 @@
 #!/bin/bash
 
-# input is a positive number ?
+
+# input is a positive number ??
 validate_positive_number() {
     re='^[0-9]+$'
     if ! [[ $1 =~ $re ]] ; then
